@@ -17,7 +17,7 @@ The code is well written, clean, and cohesive.
 * RESTful API design is implemented, correctly using the HTTP verbs and the proper Status Code.
 
 ### Programming language
-You can choose between Ruby or Elixir.
+You can choose between Ruby, Elixir or C#.
 
 ### How to share your code with us
 We want you to experience how we work on a daily basis. That's why we ask you to use a standard git-flow as follows below.
